@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "TravelCafe.App",
+  "display": "standalone",
+  "name": "TravelCafe.App",
+  "short_name": "TravelCafe.App",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
