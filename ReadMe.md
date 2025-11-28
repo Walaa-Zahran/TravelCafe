@@ -79,32 +79,6 @@ WinUI XAML
 Skia (desktop)
 
 WebAssembly (browser)
-📁 Project Structure
-TravelCafe/
-│
-├── src/
-│   ├── TravelCafe.App/               # Shared UI & Logic (XAML + C#)
-│   │   ├── Views/
-│   │   │   ├── MainPage.xaml
-│   │   │   └── MainPage.xaml.cs
-│   │   ├── Models/
-│   │   │   └── Drink.cs
-│   │   ├── Assets/
-│   │   └── App.xaml
-│   │
-│   ├── TravelCafe.App.Skia.Gtk/      # Desktop (Windows/macOS/Linux)
-│   ├── TravelCafe.App.Skia.Wasm/     # WebAssembly project
-│   └── TravelCafe.App.Mobile/        # iOS & Android
-│
-├── assets/
-│   ├── cover.png
-│   ├── demo-home.gif
-│   ├── demo-filter.gif
-│   ├── demo-add.gif
-│   ├── desktop.png
-│   └── browser.png
-│
-└── README.md
 🏗 Building the App
 WebAssembly
 cd src/TravelCafe.App.Skia.Wasm
