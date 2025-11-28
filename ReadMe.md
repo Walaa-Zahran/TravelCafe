@@ -89,6 +89,9 @@ Cart + checkout flow
 Full travel destinations browser
 
 Animation upgrades (Lottie, transitions)
+
+
+
 📄 License
 
 MIT License.
