@@ -79,13 +79,7 @@ WinUI XAML
 Skia (desktop)
 
 WebAssembly (browser)
-🏗 Building the App
-WebAssembly
-cd src/TravelCafe.App.Skia.Wasm
-dotnet run
-Desktop (Skia.Gtk)
-cd src/TravelCafe.App.Skia.Gtk
-dotnet run
+
 🧪 Future Enhancements
 
 Real AI recommendations (OpenAI / Azure ML)
