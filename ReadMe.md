@@ -1,5 +1,7 @@
 ☕✈️ TravelCafé
 A Cross-Platform Coffee & Travel Experience Built with .NET 8 + Uno Platform
+
+
 🚀 Overview
 
 TravelCafé is a visually rich, multi-platform application built with Uno Platform and .NET 8, delivering a stylized coffee-shop experience with a travel aesthetic — all from one shared codebase.
